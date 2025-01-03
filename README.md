@@ -15,12 +15,12 @@ to resume we have this :
 
 ### to encrypt
 
-1 folder location on the disk as input
+1 folder location on the disk as input<br>
 1 folder (folder is encrypted but not his name) as output
 
 ### to decrypt
 
-1 folder encrypted as input
+1 folder encrypted as input<br>
 1 folder decrypted as output
 
 that's all
